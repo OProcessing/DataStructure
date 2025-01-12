@@ -1,37 +1,37 @@
-# À±¼º¿ìÀÇ ¿­Ç÷ ÀÚ·á±¸Á¶ 
+# ìœ¤ì„±ìš°ì˜ ì—´í˜ˆ ìžë£Œêµ¬ì¡° 
 # Introduction to Data Structure Using C
-À±¼º¿ìÀÇ ¿­Ç÷ ÀÚ·á±¸Á¶ÀÇ ¼Ò½º ÄÚµå¸¦ Á¤¸®ÇÏ°í ±â·ÏÇÏ±â À§ÇÔ.
+ìœ¤ì„±ìš°ì˜ ì—´í˜ˆ ìžë£Œêµ¬ì¡°ì˜ ì†ŒìŠ¤ ì½”ë“œë¥¼ ì •ë¦¬í•˜ê³  ê¸°ë¡í•˜ê¸° ìœ„í•¨.
 
 latest->06-4.
 
-## Ch.01 ÀÚ·á±¸Á¶¿Í ¾Ë°í¸®ÁòÀÇ ÀÌÇØ
-    01-1. ÀÚ·á±¸Á¶(Data Structure)¿¡ ´ëÇÑ ±âº»ÀûÀÎ ÀÌÇØ
-    01-2. ¾Ë°í¸®ÁòÀÇ ¼º´ÉºÐ¼® ¹æ¹ý
-## Ch.02 Àç±Í (Recursion)
-    02-1. ÇÔ¼öÀÇ Àç±ÍÀû È£ÃâÀÇ ÀÌÇØ
-    02-2. Àç±ÍÀÇ È°¿ë
-    02-3. ÇÏ³ëÀÌ Å¸¿ö : The Tower of Hanoi
-## Ch.03 ¿¬°á ¸®½ºÆ® (Linked List) 1
-    03-1. Ãß»ó ÀÚ·áÇü : Abstract Data Type
-    03-2. ¹è¿­À» ÀÌ¿ëÇÑ ¸®½ºÆ®ÀÇ ±¸Çö
-## Ch.04 ¿¬°á ¸®½ºÆ® (Linked List) 2
-    04-1. ¿¬°á ¸®½ºÆ®ÀÇ °³³äÀûÀÎ ÀÌÇØ
-    04-2. ´Ü¼ø ¿¬°á ¸®½ºÆ®ÀÇ ADT¿Í ±¸Çö
-    04-3. ¿¬°á ¸®½ºÆ®ÀÇ Á¤·Ä »ðÀÔÀÇ ±¸Çö
-## Ch.05 ¿¬°á ¸®½ºÆ® (Linked List) 3
-    05-1. ¿øÇü ¿¬°á ¸®½ºÆ® (Circular Linked List)
-    05-2. ¾ç“‡Çâ ¿¬°á ¸®½ºÆ®
-## Ch.06 ½ºÅÃ (Stack)
-    06-1. ½ºÅÃÀÇ ÀÌÇØ¿Í ADT Á¤ÀÇ
-    06-2. ½ºÅÃÀÇ ¹è¿­ ±â¹Ý ±¸Çö
-    06-3. ½ºÅÃÀÇ ¿¬°á ¸®½ºÆ® ±â¹Ý ±¸Çö
-    06-4. °è»ê±â ÇÁ·Î±×·¥ ±¸Çö
-## Ch.07 Å¥ (Queue)
-## Ch.08 Æ®¸® (Tree)
-## Ch.09 ¿ì¼±¼øÀ§ Å¥ (Priority Queue)¿Í Èü (Heap)
-## Ch.10 Á¤·Ä (Sorting)
-## Ch.11 Å½»ö (Search) 1
-## Ch.12 Å½»ö (Search) 1
-## Ch.13 Å×ÀÌºí (Table)°ú ÇØ½¬ (Hash)
-## Ch.14 ±×·¡ÇÁ (Graph)
+## Ch.01 ìžë£Œêµ¬ì¡°ì™€ ì•Œê³ ë¦¬ì¦˜ì˜ ì´í•´
+    01-1. ìžë£Œêµ¬ì¡°(Data Structure)ì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ì´í•´
+    01-2. ì•Œê³ ë¦¬ì¦˜ì˜ ì„±ëŠ¥ë¶„ì„ ë°©ë²•
+## Ch.02 ìž¬ê·€ (Recursion)
+    02-1. í•¨ìˆ˜ì˜ ìž¬ê·€ì  í˜¸ì¶œì˜ ì´í•´
+    02-2. ìž¬ê·€ì˜ í™œìš©
+    02-3. í•˜ë…¸ì´ íƒ€ì›Œ : The Tower of Hanoi
+## Ch.03 ì—°ê²° ë¦¬ìŠ¤íŠ¸ (Linked List) 1
+    03-1. ì¶”ìƒ ìžë£Œí˜• : Abstract Data Type
+    03-2. ë°°ì—´ì„ ì´ìš©í•œ ë¦¬ìŠ¤íŠ¸ì˜ êµ¬í˜„
+## Ch.04 ì—°ê²° ë¦¬ìŠ¤íŠ¸ (Linked List) 2
+    04-1. ì—°ê²° ë¦¬ìŠ¤íŠ¸ì˜ ê°œë…ì ì¸ ì´í•´
+    04-2. ë‹¨ìˆœ ì—°ê²° ë¦¬ìŠ¤íŠ¸ì˜ ADTì™€ êµ¬í˜„
+    04-3. ì—°ê²° ë¦¬ìŠ¤íŠ¸ì˜ ì •ë ¬ ì‚½ìž…ì˜ êµ¬í˜„
+## Ch.05 ì—°ê²° ë¦¬ìŠ¤íŠ¸ (Linked List) 3
+    05-1. ì›í˜• ì—°ê²° ë¦¬ìŠ¤íŠ¸ (Circular Linked List)
+    05-2. ì–‘ë±¡í–¥ ì—°ê²° ë¦¬ìŠ¤íŠ¸
+## Ch.06 ìŠ¤íƒ (Stack)
+    06-1. ìŠ¤íƒì˜ ì´í•´ì™€ ADT ì •ì˜
+    06-2. ìŠ¤íƒì˜ ë°°ì—´ ê¸°ë°˜ êµ¬í˜„
+    06-3. ìŠ¤íƒì˜ ì—°ê²° ë¦¬ìŠ¤íŠ¸ ê¸°ë°˜ êµ¬í˜„
+    06-4. ê³„ì‚°ê¸° í”„ë¡œê·¸ëž¨ êµ¬í˜„
+## Ch.07 í (Queue)
+## Ch.08 íŠ¸ë¦¬ (Tree)
+## Ch.09 ìš°ì„ ìˆœìœ„ í (Priority Queue)ì™€ íž™ (Heap)
+## Ch.10 ì •ë ¬ (Sorting)
+## Ch.11 íƒìƒ‰ (Search) 1
+## Ch.12 íƒìƒ‰ (Search) 1
+## Ch.13 í…Œì´ë¸” (Table)ê³¼ í•´ì‰¬ (Hash)
+## Ch.14 ê·¸ëž˜í”„ (Graph)
 ## Index
