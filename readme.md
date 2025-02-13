@@ -34,6 +34,9 @@ latest->06-4.
     07-5. 덱(Deque)의 이해와 구현
 ## Ch.08 트리 (Tree)
     08-1. 트리의 개요
+    08-2. 이진 트리의 구현
+    08-3. 이진 트리의 순회(Traversal)
+    08-4. 수식 트리(Expression Tree)의 구현
 ## Ch.09 우선순위 큐 (Priority Queue)와 힙 (Heap)
 ## Ch.10 정렬 (Sorting)
 ## Ch.11 탐색 (Search) 1
