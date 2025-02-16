@@ -38,6 +38,8 @@ latest->06-4.
     08-3. 이진 트리의 순회(Traversal)
     08-4. 수식 트리(Expression Tree)의 구현
 ## Ch.09 우선순위 큐 (Priority Queue)와 힙 (Heap)
+    09-1. 우선순위 큐의 이해
+    09-2. 힙의 구현과 우선순위 큐의 완성
 ## Ch.10 정렬 (Sorting)
 ## Ch.11 탐색 (Search) 1
 ## Ch.12 탐색 (Search) 1
